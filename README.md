@@ -8,7 +8,7 @@
 
 ## 🎨 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (4º período)** e atuo como **Suporte a usuários do sistema**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUC-GO (4º período)** e atuo como **Suporte a usuários do sistema**.  
 Tenho paixão por desenvolvimento, automação, cloud e tudo que envolve tecnologia.
 
 Busco crescer profissionalmente construindo projetos, estudando diariamente e me desafiando com novas ferramentas e conceitos.
