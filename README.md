@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Me chamo Samuel, seja bem vindo ao meu gitHub</h1>
 
-<!--
-**SamuelSouzaC/SamuelSouzaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4F9FFF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Analista+de+Suporte+Técnico;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo+" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (4º período)** e atuo como **Suporte a usuários do sistema**.  
+Tenho paixão por desenvolvimento, automação, cloud e tudo que envolve tecnologia.
+
+Busco crescer profissionalmente construindo projetos, estudando diariamente e me desafiando com novas ferramentas e conceitos.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
+- Java   
+- SQL 
+- Git & GitHub  
+
+### 🛠 Suporte Técnico
+- Manutenção de computadores  
+- Manutenção de celulares  
+- Diagnóstico e resolução de falhas  
+- Processos de qualidade e testes técnicos  
+
+### 🎨 Outras habilidades
+- Desenvolvimento de games (inicial)  
+- Edição e tratamento de imagens  
+- Pacote Office / Ferramentas administrativas  
+
+---
+
+## 💼 Experiência Profissional
+
+### 🔹 Analista de Suporte Técnico — **JYN Brasil**
+- Suporte a usuários  
+- Resolução de incidentes  
+- Garantia de qualidade  
+- Análise e tomada de decisão  
+
+### 🔹 Auxiliar Técnico (Laboratório) — **Samsung Autorizada**
+- Manutenção de smartphones  
+- Testes de qualidade e conformidade  
+- Gestão de ordens de serviço  
+- Organização de processos técnicos  
+
+---
+
+## 🎯 Objetivos Atuais
+
+- Aprimorar Java, SQL e DevOps  
+- Criar mais projetos práticos  
+- Evoluir na área de desenvolvimento  
+- Trabalhar com cloud e automação futuramente  
+
+---
+
+## 📬 Contato
+📧 **E-mail:** samuelcosta2704@gmail.com  
+🔗 **LinkedIn:** *www.linkedin.com/in/samuel-souza-costa-890b15297*  
+
+---
+
