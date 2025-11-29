@@ -65,4 +65,8 @@ Busco crescer profissionalmente construindo projetos, estudando diariamente e me
 🔗 **LinkedIn:** *www.linkedin.com/in/samuel-souza-costa-890b15297*  
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelSouzaC/SamuelSouzaC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelSouzaC/SamuelSouzaC/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelSouzaC/SamuelSouzaC/output/github-contribution-grid-snake.svg">
+</picture>
