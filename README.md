@@ -33,23 +33,6 @@ Busco crescer profissionalmente construindo projetos, estudando diariamente e me
 - Edição e tratamento de imagens  
 - Pacote Office / Ferramentas administrativas  
 
----
-
-## 💼 Experiência Profissional
-
-### 🔹 Analista de Suporte Técnico — **JYN Brasil**
-- Suporte a usuários  
-- Resolução de incidentes  
-- Garantia de qualidade  
-- Análise e tomada de decisão  
-
-### 🔹 Auxiliar Técnico (Laboratório) — **Samsung Autorizada**
-- Manutenção de smartphones  
-- Testes de qualidade e conformidade  
-- Gestão de ordens de serviço  
-- Organização de processos técnicos  
-
----
 
 ## 🎯 Objetivos Atuais
 
